@@ -1,4 +1,4 @@
-# tc-challenge
+# AI Tinkerers Ottawa Challenge
 
 This repo is dedicated to the ML competition by Eric Fillion. 
 https://github.com/EricFillion/tc-challenge
